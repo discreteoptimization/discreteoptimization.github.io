@@ -1,0 +1,3 @@
+[submodule "vis"]
+	path = vis
+	url = https://github.com/discreteoptimization/visualization.git
